@@ -1,2 +1,5 @@
-# cpp-bank-project
-Simple C++ Bank Management System using OOP
+cpp-bank-project
+ ├── README.md
+ └── bank.cpp
+
+ 
